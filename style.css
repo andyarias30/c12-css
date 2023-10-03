@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(85, 187, 95);
+    color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     
+}
+
+#box{
+background-color: black;
+width: 300px;
+height: 300px;
+border: 2px solid red ;
+margin: auto;
+border-radius: 300px;
+}
+
+.box__text{
+padding: 100px;
+
+}
+
+#circle{
+background-color: black;
+width: 300px;
+height: 300px;
+border: 2px solid red ;
+margin: auto;
+border-radius: 300px;
+}
+
+.circle__text{
+padding: 100px;
+}
+
+
